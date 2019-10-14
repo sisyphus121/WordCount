@@ -1,0 +1,49 @@
+字符个数：593
+<cellphone>: 6
+<they>: 4
+<parents>: 3
+<their>: 3
+<banned>: 2
+<students>: 2
+<take>: 2
+<when>: 2
+<kids>: 2
+<time>: 2
+单词个数：63
+
+字符个数：593
+单词个数：63
+<cellphone>: 6
+<they>: 4
+<parents>: 3
+<their>: 3
+<banned>: 2
+<students>: 2
+<take>: 2
+<when>: 2
+<kids>: 2
+<time>: 2
+字符个数：593
+单词个数：63
+<cellphone>: 6
+<they>: 4
+<parents>: 3
+<their>: 3
+<banned>: 2
+<students>: 2
+<take>: 2
+<when>: 2
+<kids>: 2
+<time>: 2
+字符个数：593
+单词个数：63
+<cellphone>: 6
+<they>: 4
+<parents>: 3
+<their>: 3
+<banned>: 2
+<students>: 2
+<take>: 2
+<when>: 2
+<kids>: 2
+<time>: 2
